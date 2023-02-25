@@ -1,11 +1,8 @@
-#  Responsive Scyholl Website Design
+# 🏫 Responsive School Website Design
 ### 🍎 Responsive web site
 
-- Responsive Juice Website Design Using HTML CSS & JavaScript
-- Contains CSS & GSAP animations.
+- Responsive School Website Design Using HTML CSS & JavaScript
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
-
-![preview img](/preview.png)
+![preview img](![image](https://user-images.githubusercontent.com/118749179/221351512-6b81436f-24cf-45d4-9b34-380dd61d3af5.png))
