@@ -1,6 +1,5 @@
-#  Responsive Juice Website Design
-## [Watch it on youtube](https://youtu.be/0FF6yY0lgjY)
-### 🍎 Responsive Juice Website Design
+#  Responsive Scyholl Website Design
+### 🍎 Responsive web site
 
 - Responsive Juice Website Design Using HTML CSS & JavaScript
 - Contains CSS & GSAP animations.
